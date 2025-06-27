@@ -59,8 +59,6 @@ A simple game application where user can play **Bubble-Hit**.
 Bubble-Hit-Game/
 ├── index.html
 ├── style.css
-├── img
-├── music
 └── script.js
 ```
 
