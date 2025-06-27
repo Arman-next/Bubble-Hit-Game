@@ -1,4 +1,4 @@
-# 🔈 Bubble-Hit-Game
+# 🫧 Bubble-Hit-Game
 
 A simple game application where user can play **Bubble-Hit**.
 
